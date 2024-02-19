@@ -4,7 +4,7 @@ Este projeto foi realizado na imersão front-end da alura, partindo de uma estru
 
 ## Demonstração
 
-Link para demonstração online: [copia-spotify-react](https://guilherme-spotify.netlify.app)
+- [https://guilherme-spotify.netlify.app](https://guilherme-spotify.netlify.app)
 
 ## Screenshots
 
@@ -18,7 +18,7 @@ Link para demonstração online: [copia-spotify-react](https://guilherme-spotify
 
 Segue alguns projetos relacionados
 
-[copia-spotify-html](https://github.com/guilhermefernandesk/copia-spotify-html)
+- [https://github.com/guilhermefernandesk/copia-spotify-html](https://github.com/guilhermefernandesk/copia-spotify-html)
 
 ## Feedback & Suporte
 
