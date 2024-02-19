@@ -4,11 +4,11 @@ Este projeto foi realizado na imersão front-end da alura, partindo de uma estru
 
 ## Demonstração
 
-Link para demonstração online: [copia-spotify-react](https://bellatrixsz.netlify.app)
+Link para demonstração online: [copia-spotify-react](https://guilherme-spotify.netlify.app)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<a href="https://ibb.co/C09KVmf"><img src="https://i.ibb.co/Lpgd9Y3/imagem-2024-02-18-235143660.png" alt="imagem-2024-02-18-235143660" border="0"></a>
 
 ## Stack utilizada
 
