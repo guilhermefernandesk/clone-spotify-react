@@ -28,93 +28,93 @@ export default function Main() {
         <div className="offer__scroll-container">
           <div className="offer__list">
             <section className="offer__list-item">
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card1">
-                  <img src={Playlist1} alt="" />
+                  <img src={Playlist1} alt="card" />
                   <span>Boas festas</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card2">
-                  <img src={Playlist2} alt="" />
+                  <img src={Playlist2} alt="card" />
                   <span>Feitos para você</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card3">
-                  <img src={Playlist3} alt="" />
+                  <img src={Playlist3} alt="card" />
                   <span>Lançamentos</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card4">
-                  <img src={Playlist4} alt="" />
+                  <img src={Playlist4} alt="card" />
                   <span>Creators</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card5">
-                  <img src={Playlist5} alt="" />
+                  <img src={Playlist5} alt="card" />
                   <span>Para treinar</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card6">
-                  <img src={Playlist6} alt="" />
+                  <img src={Playlist6} alt="card" />
                   <span>Podcasts</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card7">
-                  <img src={Playlist7} alt="" />
+                  <img src={Playlist7} alt="card" />
                   <span>Sertanejo</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card8">
-                  <img src={Playlist8} alt="" />
+                  <img src={Playlist8} alt="card" />
                   <span>Samba e pagode</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card9">
-                  <img src={Playlist9} alt="" />
+                  <img src={Playlist9} alt="card" />
                   <span>Funk</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card10">
-                  <img src={Playlist10} alt="" />
+                  <img src={Playlist10} alt="card" />
                   <span>MPB</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card11">
-                  <img src={Playlist11} alt="" />
+                  <img src={Playlist11} alt="card" />
                   <span>Rock</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card12">
-                  <img src={Playlist12} alt="" />
+                  <img src={Playlist12} alt="card" />
                   <span>Hip Hop</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card13">
-                  <img src={Playlist13} alt="" />
+                  <img src={Playlist13} alt="card" />
                   <span>Indie</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card14">
-                  <img src={Playlist14} alt="" />
+                  <img src={Playlist14} alt="card" />
                   <span>Relax</span>
                 </div>
               </a>
-              <a href="" className="cards">
+              <a href="#" className="cards">
                 <div className="cards card15">
-                  <img src={Playlist15} alt="" />
+                  <img src={Playlist15} alt="card" />
                   <span>Música Latina</span>
                 </div>
               </a>
@@ -132,7 +132,7 @@ export default function Main() {
               </div>
             </div>
             <div className="card-text">
-              <a title="Foo Fighters" className="vst" href="">
+              <a title="Foo Fighters" className="vst" href="#">
                 <span className="artist-name" id="artist-name"></span>
                 <span className="artist-categorie">Artista</span>
               </a>
