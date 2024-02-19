@@ -9,13 +9,13 @@ export default function Sidebar() {
     <div className="sidebar">
       <nav className="sidebar__navigation">
         <div className="logo">
-          <a href="">
+          <a href="/#">
             <img src={logoSpotify} alt="Logo" />
           </a>
         </div>
         <ul>
           <li>
-            <a href="">
+            <a href="/#">
               <span>
                 <FontAwesomeIcon icon={faHome} />
               </span>
@@ -23,7 +23,7 @@ export default function Sidebar() {
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="/#">
               <span>
                 <FontAwesomeIcon icon={faSearch} />
               </span>
@@ -50,7 +50,7 @@ export default function Sidebar() {
           </div>
         </section>
         <div className="cookies">
-          <a href="">Cookies</a>
+          <a href="/#">Cookies</a>
         </div>
         <div className="languages">
           <button className="languages__button">
