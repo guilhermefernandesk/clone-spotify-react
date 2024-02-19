@@ -4,7 +4,7 @@ Este projeto foi realizado na imersão front-end da alura, partindo de uma estru
 
 ## Demonstração
 
-- [https://guilherme-spotify.netlify.app](https://guilherme-spotify.netlify.app)
+- [https://guilherme-spotify-v1.netlify.app](https://guilherme-spotify-v1.netlify.app)
 
 ## Screenshots
 
@@ -12,7 +12,7 @@ Este projeto foi realizado na imersão front-end da alura, partindo de uma estru
 
 ## Stack utilizada
 
-**Front-end:** ReactJs, TailwindCSS
+**Front-end:** ReactJs, TailwindCSS, Javascript
 
 ## Relacionados
 
