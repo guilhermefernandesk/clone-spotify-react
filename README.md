@@ -1,4 +1,4 @@
-# Cópia do Spotify em ReactJs <img align="right" height="35" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png"/>
+# Clone do Spotify em ReactJs <img align="right" height="35" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png"/>
 
 Este projeto foi realizado na imersão front-end da alura, partindo de uma estrutura inicial do Spotify em HTML e CSS.
 
@@ -18,7 +18,7 @@ Este projeto foi realizado na imersão front-end da alura, partindo de uma estru
 
 Segue alguns projetos relacionados
 
-- [https://github.com/guilhermefernandesk/copia-spotify-html](https://github.com/guilhermefernandesk/copia-spotify-html)
+- [https://github.com/guilhermefernandesk/clone-spotify-html](https://github.com/guilhermefernandesk/clone-spotify-html)
 
 ## Feedback & Suporte
 
